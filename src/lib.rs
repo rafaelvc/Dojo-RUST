@@ -1,0 +1,24 @@
+//mod bin_search;
+//mod bin_search1;
+//mod contain_dups;
+//mod find_diff;
+//mod intersect_two_arrays;
+//mod check_brackets;
+//mod split_string_balanced;
+//mod last_word_len;
+//mod license_key_formating;
+//mod longest_common_prefix;
+//mod remove_dups;
+//mod smallest_ranges;
+//mod add_two_numbers;
+//mod single_number;
+//mod palindrome_nr;
+//mod swap_nodes_inpairs; // INCOMPLETE/REVIEW
+//mod set_mismatch;
+//mod zigzag_conversion;
+//mod plus_one;
+//mod max_profit;
+//mod lifetimes;
+//mod experiment_traits;
+//mod find_first_index;
+mod merge_sorted;
